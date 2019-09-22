@@ -7,3 +7,5 @@ Telegram Inline Like Bot PHP
 4) enjoying :)
 
 Demo : @inlinelike_bot
+
+https://heroku.com/deploy
